@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "H:/dev.git/z_repro/VS2019CMake/CMakeProjectRepro/out/build/x64-Debug/CMakeProjectRepro/CMakeFiles/CMakeProjectRepro.dir/embed.manifest"
